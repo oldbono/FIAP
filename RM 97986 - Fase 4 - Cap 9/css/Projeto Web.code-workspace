@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Programação/Git/Diretorio"
+		},
+		{
+			"path": "../../../../Programação/Projeto Web/fintech-bootstrap-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fintech-bootstrap-main"
+	}
+}

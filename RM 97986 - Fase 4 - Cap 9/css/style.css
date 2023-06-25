@@ -1,0 +1,28 @@
+body {
+  color: black;
+}
+
+h1 {
+  font-family: 'Belanosima', sans-serif;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}
+
+.botao {
+  background-color: gray;
+  width: 250px;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+.botao:hover {
+  background-color: black;
+  color: green;
+}
+
+span {
+  font-family: 'Roboto', sans-serif;
+}
